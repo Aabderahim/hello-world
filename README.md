@@ -2,4 +2,4 @@
 
 My first repository on Github
 
-I love ☕ and 🍕, and 💃.
+I love 🍕 and 💃.
